@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Outputs
+*_FULL_DATA_*.json
+tiktok_api_usage_log.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
