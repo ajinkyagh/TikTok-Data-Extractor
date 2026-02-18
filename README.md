@@ -32,6 +32,13 @@ A focused data collection pipeline using the TikTok Research API. This project e
    ```
 4. Open `Tiktok.ipynb` and run the cells.
 
+## CLI Usage (Optional)
+Run the extractor without the notebook:
+```bash
+python run_extractor.py --username kimkardashian --max-videos 10 --days-back 90 --include-comments
+```
+
+
 ## Usage (Notebook)
 The notebook imports `tiktok_extractor.py`, loads credentials from environment variables, and runs an extraction with configurable parameters.
 
