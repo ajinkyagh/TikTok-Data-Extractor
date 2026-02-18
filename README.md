@@ -11,6 +11,11 @@ https://aisel.aisnet.org/neais2024/18/
 
 **Presented at:** Global NEAIS Conference — October 23, 2024.
 
+NEAIS presentation deck:
+```
+https://www.canva.com/design/DAGUQ9WfxbI/Ca4WoqH1ESMvKQ_dsjxNBw/view?utm_content=DAGUQ9WfxbI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h305d6f954d
+```
+
 
 A focused data collection pipeline using the TikTok Research API. This project emphasizes clean code structure, safe credential handling, and reproducible analysis workflows suitable for a data analyst portfolio.
 
